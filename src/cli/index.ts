@@ -369,11 +369,11 @@ program
   .command("getuserposts")
   .description("Get posts from a TikTok user")
   .argument("<username>", "TikTok username")
-  .option("-l, --limit <number>", "Limit of posts", "5")
+  .option("-l, --limit <number>", "Limit of posts (default: all posts)")
   .option("--proxy <proxy>", "Proxy URL (http/https/socks)")
   .action(async (username, options) => {
     try {
-      const postLimit = parseInt(options.limit)
+      const postLimit = options.limit ? parseInt(options.limit) : undefined
       const results = await Tiktok.GetUserPosts(username, {
         postLimit: postLimit,
         proxy: options.proxy

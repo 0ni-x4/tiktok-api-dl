@@ -3,7 +3,10 @@ import { _tiktokGetPosts, _tiktokurl } from "../../constants/api"
 import {
   AuthorPost,
   Posts,
-  TiktokUserPostsResponse
+  TiktokUserPostsResponse,
+  MusicPost,
+  StatsPost,
+  VideoPost
 } from "../../types/get/getUserPosts"
 import { _getUserPostsParams, _xttParams } from "../../constants/params"
 import { HttpsProxyAgent } from "https-proxy-agent"
@@ -65,17 +68,38 @@ const parseUserPosts = async (
   let cursor = 0
   const posts: Posts[] = []
   let counter = 0
+  let emptyResponseCount = 0
 
   const Tiktok = new TiktokService()
-  const xttparams = Tiktok.generateXTTParams(
-    _xttParams(secUid, cursor, postLimit)
-  )
 
   while (hasMore) {
     let result: any | null = null
 
+    // Use a fixed count of 20 per request for better pagination
+    const requestCount = 20
+    
+    // Generate X-TT-Params for each request with updated cursor
+    const xttparams = Tiktok.generateXTTParams(
+      _xttParams(secUid, cursor, requestCount)
+    )
+
     // Prevent missing response posts
     result = await requestUserPosts(proxy, xttparams)
+
+    if (!result || !result.itemList || result.itemList.length === 0) {
+      emptyResponseCount++
+      // Only stop if we get 3 consecutive empty responses to handle API glitches
+      if (emptyResponseCount >= 3) {
+        break
+      }
+      // Increment cursor even on empty response and try again
+      cursor += requestCount
+      counter++
+      continue
+    }
+
+    // Reset empty response counter if we got results
+    emptyResponseCount = 0
 
     result?.itemList?.forEach((v: any) => {
       const author: AuthorPost = {
@@ -91,6 +115,26 @@ const parseUserPosts = async (
         privateAccount: v.author.privateAccount,
         isADVirtual: v.author.isADVirtual,
         isEmbedBanned: v.author.isEmbedBanned
+      }
+
+      const music: MusicPost = {
+        id: v.music.id,
+        title: v.music.title,
+        authorName: v.music.authorName,
+        playUrl: v.music.playUrl,
+        coverThumb: v.music.coverThumb,
+        coverMedium: v.music.coverMedium,
+        coverLarge: v.music.coverLarge,
+        duration: v.music.duration,
+        original: v.music.original
+      }
+
+      const stats: StatsPost = {
+        likeCount: v.stats.diggCount,
+        collectCount: v.stats.collectCount,
+        playCount: v.stats.playCount,
+        shareCount: v.stats.shareCount,
+        commentCount: v.stats.commentCount
       }
 
       if (v.imagePost) {
@@ -110,23 +154,23 @@ const parseUserPosts = async (
           privateItem: v.privateItem,
           shareEnabled: v.shareEnabled,
           stitchEnabled: v.stitchEnabled,
-          stats: v.stats,
-          music: v.music,
+          stats,
+          music,
           author,
           imagePost
         })
       } else {
-        const video = {
+        const video: VideoPost = {
           id: v.video.id,
           duration: v.video.duration,
-          format: v.video.format,
-          bitrate: v.video.bitrate,
           ratio: v.video.ratio,
-          playAddr: v.video.playAddr,
           cover: v.video.cover,
           originCover: v.video.originCover,
           dynamicCover: v.video.dynamicCover,
-          downloadAddr: v.video.downloadAddr
+          playAddr: v.video.playAddr,
+          downloadAddr: v.video.downloadAddr,
+          format: v.video.format,
+          bitrate: v.video.bitrate
         }
 
         posts.push({
@@ -141,23 +185,43 @@ const parseUserPosts = async (
           privateItem: v.privateItem,
           shareEnabled: v.shareEnabled,
           stitchEnabled: v.stitchEnabled,
-          stats: v.stats,
-          music: v.music,
+          stats,
+          music,
           author,
           video
         })
       }
     })
 
-    // Update hasMore and cursor for next iteration
-    hasMore = result.hasMore
-    cursor = hasMore ? result.cursor : null
-    counter++
-
     // Check post limit if specified
     if (postLimit && posts.length >= postLimit) {
       hasMore = false
       break
+    }
+
+    // Update cursor based on actual response
+    if (result.cursor) {
+      cursor = result.cursor
+    } else {
+      // If no cursor in response, increment by the number of items we got
+      cursor += result.itemList.length
+    }
+
+    // Ignore hasMore flag from TikTok - continue until we get empty responses
+    // hasMore = result.hasMore || false
+
+    counter++
+
+    // Add safety limit only for limited requests to prevent infinite loops
+    // For unlimited requests, rely on empty response detection
+    if (postLimit && counter >= 50) {
+      hasMore = false
+      break
+    }
+
+    // Add a small delay between requests to avoid rate limiting
+    if (hasMore) {
+      await new Promise(resolve => setTimeout(resolve, 500))
     }
   }
 

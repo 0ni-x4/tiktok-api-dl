@@ -1,0 +1,28 @@
+{
+  "status": 200,
+  "headers": {
+    "content-type": "application/json",
+    "content-length": "0",
+    "x-janus-mini-api-forward": "Janus-Mini(fast)",
+    "tt_stable": "1",
+    "tt_orcas_res": "1",
+    "x-tt-logid": "20250619012715F58A2FC935207412B3FC",
+    "x-ms-token": "cXBgUaLFInO7MlDJhRSGvKkYSPODDqvHx_3Qh1Az_Aa4736UUtWYK0KsQ43S3nJuYKY9RjdC30_98r0e8buNGr7HimJnzlKpBwONuO8xpYtNMzeY-QXxo-FZJU_JaquNChvGSdy9OCdiE4TVia59DUGXXw==",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "server-timing": "inner; dur=24, cdn-cache; desc=MISS, edge; dur=1, origin; dur=111",
+    "x-tt-trace-host": "0176a6930fac9f7f69f0363a86e3f3fd71e869ee10132fa700bb385d7bf8178ad3643c70eb112b04941a8eb4a8316185e02905a074d6ab76b226568daf9234bfcbbc891683c92d879915623ef301f9fbeaacd22488ad5241100f3524d414ea2a3598544267bf1f6b212b6e81816f160a43",
+    "x-tt-trace-id": "00-250619012715F58A2FC935207412B3FC-1B8378CD0FA1AD6E-00",
+    "server": "TLB",
+    "expires": "Wed, 18 Jun 2025 17:27:15 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Wed, 18 Jun 2025 17:27:15 GMT",
+    "x-cache": "TCP_MISS from a2-16-148-138.deploy.akamaitechnologies.com (AkamaiGHost/22.1.4-c2abe890c2766c93753bf8e812731fff) (-)",
+    "connection": "keep-alive",
+    "set-cookie": "msToken=cXBgUaLFInO7MlDJhRSGvKkYSPODDqvHx_3Qh1Az_Aa4736UUtWYK0KsQ43S3nJuYKY9RjdC30_98r0e8buNGr7HimJnzlKpBwONuO8xpYtNMzeY-QXxo-FZJU_JaquNChvGSdy9OCdiE4TVia59DUGXXw==; expires=Sat, 28 Jun 2025 17:27:15 GMT; domain=tiktok.com; path=/; secure; SameSite=None",
+    "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn",
+    "x-origin-response-time": "112,2.16.148.138",
+    "x-akamai-request-id": "eba89da"
+  },
+  "data": ""
+}

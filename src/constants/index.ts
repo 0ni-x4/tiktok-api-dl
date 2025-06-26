@@ -20,7 +20,7 @@ export const ERROR_MESSAGES = {
 } as const
 
 export const DEFAULT_LIMITS = {
-  POST_LIMIT: 30,
+  POST_LIMIT: 3000,
   COMMENT_LIMIT: 20,
   SEARCH_PAGE_SIZE: 20
 } as const

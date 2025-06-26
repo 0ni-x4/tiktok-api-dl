@@ -3,9 +3,9 @@ import Tiktok from "../src/index"
 
 async function testUserPosts() {
   try {
-    const username = "Tobz2k19" // Change to a valid TikTok username
+    const username = "admisist" // Change to a valid TikTok username
     const result = await Tiktok.GetUserPosts(username, {
-      postLimit: 5,
+      postLimit: 36 ,
       proxy: undefined
     })
     if (result.status === "success" && result.result) {

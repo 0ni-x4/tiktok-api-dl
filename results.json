@@ -1,0 +1,1898 @@
+{
+  "metadata": {
+    "username": "admisist",
+    "scraped_at": "2025-06-18T16:10:41.962Z",
+    "total_videos_collected": 35,
+    "scraping_method": "Progressive limit testing",
+    "max_limit_discovered": 35,
+    "scrape_duration_seconds": 6,
+    "tiktok_api_limitation": "TikTok blocks requests for >35 videos, this represents maximum accessible data"
+  },
+  "summary": {
+    "totalVideos": 35,
+    "totalViews": 47867217,
+    "totalLikes": 6202956,
+    "totalComments": 21332,
+    "totalShares": 65157,
+    "totalCollects": 621050,
+    "totalEngagement": 6910495,
+    "averageViews": 1367634.7714285713,
+    "averageLikes": 177227.3142857143,
+    "averageComments": 609.4857142857143,
+    "averageShares": 1861.6285714285714,
+    "averageCollects": 17744.285714285714,
+    "averageEngagementRate": 0.04740899869240109,
+    "dateRange": {
+      "earliest": "2024-11-15T21:02:36.000Z",
+      "latest": "2025-06-17T16:40:31.000Z"
+    }
+  },
+  "videos": [
+    {
+      "id": "7440219488437423390",
+      "description": "Who calims this? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ",
+      "createTime": 1732311101,
+      "createDate": "2024-11-22T21:31:41.000Z",
+      "stats": {
+        "views": 33900000,
+        "likes": 4700000,
+        "comments": 13700,
+        "shares": 44600,
+        "collects": 447400
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "orijinal ses",
+        "author": "chingizmma",
+        "original": true,
+        "duration": 51
+      },
+      "video": {
+        "id": "7440219488437423390",
+        "duration": 25,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 592066
+      },
+      "hashtags": [
+        "#ivyleague",
+        "#collegetok",
+        "#collegeacceptance",
+        "#collegeadmissions",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.13864306784660768,
+        "commentsToViews": 0.0004041297935103245,
+        "sharesToViews": 0.0013156342182890856,
+        "engagement": 0.1403628318584071
+      }
+    },
+    {
+      "id": "7437614359309733150",
+      "description": "Who's ready? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ",
+      "createTime": 1731704556,
+      "createDate": "2024-11-15T21:02:36.000Z",
+      "stats": {
+        "views": 13900000,
+        "likes": 1500000,
+        "comments": 7587,
+        "shares": 20500,
+        "collects": 173100
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "orijinal ses",
+        "author": "chingizmma",
+        "original": true,
+        "duration": 51
+      },
+      "video": {
+        "id": "7437614359309733150",
+        "duration": 25,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 669781
+      },
+      "hashtags": [
+        "#ivyleague",
+        "#collegetok",
+        "#collegeacceptance",
+        "#collegeadmissions",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.1079136690647482,
+        "commentsToViews": 0.0005458273381294964,
+        "sharesToViews": 0.001474820143884892,
+        "engagement": 0.10993431654676258
+      }
+    },
+    {
+      "id": "7516959008243059999",
+      "description": "W in the chat and its free💀 #harvard #ivyleague #collegeadmissions #collegeacceptance #fyp ",
+      "createTime": 1750178431,
+      "createDate": "2025-06-17T16:40:31.000Z",
+      "stats": {
+        "views": 3178,
+        "likes": 175,
+        "comments": 1,
+        "shares": 5,
+        "collects": 57
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "BRUXO FANTASMA - SUPER SLOWED",
+        "author": "LXNGVX & Dj Gabriel do Borel",
+        "original": false,
+        "duration": 56
+      },
+      "video": {
+        "id": "7516959008243059999",
+        "duration": 14,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 766517
+      },
+      "hashtags": [
+        "#harvard",
+        "#ivyleague",
+        "#collegeadmissions",
+        "#collegeacceptance",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.05506607929515418,
+        "commentsToViews": 0.00031466331025802394,
+        "sharesToViews": 0.0015733165512901196,
+        "engagement": 0.056954059156702326
+      }
+    },
+    {
+      "id": "7516292543940676894",
+      "description": "no thats actually insane 😭 #collegeacceptance #studymotivation #collegeapplication #fyp",
+      "createTime": 1750023248,
+      "createDate": "2025-06-15T21:34:08.000Z",
+      "stats": {
+        "views": 3008,
+        "likes": 126,
+        "comments": 2,
+        "shares": 7,
+        "collects": 41
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "DIA DELÍCIA",
+        "author": "Nakama & Mc Staff & ΣP",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7516292543940676894",
+        "duration": 9,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 431057
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.04188829787234043,
+        "commentsToViews": 0.0006648936170212766,
+        "sharesToViews": 0.002327127659574468,
+        "engagement": 0.04488031914893617
+      }
+    },
+    {
+      "id": "7516206352549678367",
+      "description": "this is a game changer 🔥 #collegeacceptance #studymotivation #collegeapplication #foryou",
+      "createTime": 1750003187,
+      "createDate": "2025-06-15T15:59:47.000Z",
+      "stats": {
+        "views": 872,
+        "likes": 37,
+        "comments": 2,
+        "shares": 0,
+        "collects": 3
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Blue Strips (feat. Sexyy Red) (Remix)",
+        "author": "Jessie Murph",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7516206352549678367",
+        "duration": 10,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 902348
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.04243119266055046,
+        "commentsToViews": 0.0022935779816513763,
+        "sharesToViews": 0,
+        "engagement": 0.04472477064220184
+      }
+    },
+    {
+      "id": "7515901451294477599",
+      "description": "My uni interview tutor hella chill #harvard #studytok #collegeadmissions #collegeacceptance #fyp",
+      "createTime": 1749932192,
+      "createDate": "2025-06-14T20:16:32.000Z",
+      "stats": {
+        "views": 1401,
+        "likes": 63,
+        "comments": 2,
+        "shares": 1,
+        "collects": 7
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "X-TALI",
+        "author": "MXCCREE & DJ GL3CHEKY & MC PR",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7515901451294477599",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1292702
+      },
+      "hashtags": [
+        "#harvard",
+        "#studytok",
+        "#collegeadmissions",
+        "#collegeacceptance",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.044967880085653104,
+        "commentsToViews": 0.0014275517487508922,
+        "sharesToViews": 0.0007137758743754461,
+        "engagement": 0.047109207708779445
+      }
+    },
+    {
+      "id": "7515555454857022750",
+      "description": "i wish i knew about this earlier 😫 #collegeacceptance #studymotivation #collegeapplication #foryou",
+      "createTime": 1749851635,
+      "createDate": "2025-06-13T21:53:55.000Z",
+      "stats": {
+        "views": 880,
+        "likes": 31,
+        "comments": 2,
+        "shares": 0,
+        "collects": 4
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "ECE Marketing Airball",
+        "author": "EC Equine Marketing",
+        "original": true,
+        "duration": 18
+      },
+      "video": {
+        "id": "7515555454857022750",
+        "duration": 13,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 875909
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.035227272727272725,
+        "commentsToViews": 0.0022727272727272726,
+        "sharesToViews": 0,
+        "engagement": 0.0375
+      }
+    },
+    {
+      "id": "7515466467010252062",
+      "description": "what tool is that 🥺 #ivyleague #collegelife #collegeacceptance #dream #fyp ",
+      "createTime": 1749830922,
+      "createDate": "2025-06-13T16:08:42.000Z",
+      "stats": {
+        "views": 1168,
+        "likes": 50,
+        "comments": 0,
+        "shares": 0,
+        "collects": 7
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound - AWILERN",
+        "author": "AWILERN",
+        "original": true,
+        "duration": 11
+      },
+      "video": {
+        "id": "7515466467010252062",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1351430
+      },
+      "hashtags": [
+        "#ivyleague",
+        "#collegelife",
+        "#collegeacceptance",
+        "#dream",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.04280821917808219,
+        "commentsToViews": 0,
+        "sharesToViews": 0,
+        "engagement": 0.04280821917808219
+      }
+    },
+    {
+      "id": "7515199634273242399",
+      "description": "so helpful 👀 #collegeadmissions #collegeacceptance #studymotivation #fyp ",
+      "createTime": 1749768776,
+      "createDate": "2025-06-12T22:52:56.000Z",
+      "stats": {
+        "views": 4420,
+        "likes": 312,
+        "comments": 2,
+        "shares": 4,
+        "collects": 60
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "habz.fx",
+        "original": true,
+        "duration": 52
+      },
+      "video": {
+        "id": "7515199634273242399",
+        "duration": 16,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1183289
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.07058823529411765,
+        "commentsToViews": 0.00045248868778280545,
+        "sharesToViews": 0.0009049773755656109,
+        "engagement": 0.07194570135746606
+      }
+    },
+    {
+      "id": "7515097880013688094",
+      "description": "is this even legal??? #collegeacceptance #studytok #collegeadmissions #foryou",
+      "createTime": 1749745091,
+      "createDate": "2025-06-12T16:18:11.000Z",
+      "stats": {
+        "views": 1216,
+        "likes": 57,
+        "comments": 3,
+        "shares": 1,
+        "collects": 9
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Illegal",
+        "author": "PinkPantheress",
+        "original": false,
+        "duration": 13
+      },
+      "video": {
+        "id": "7515097880013688094",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1018064
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studytok",
+        "#collegeadmissions",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.046875,
+        "commentsToViews": 0.0024671052631578946,
+        "sharesToViews": 0.0008223684210526315,
+        "engagement": 0.05016447368421053
+      }
+    },
+    {
+      "id": "7514102153489730846",
+      "description": "i need that tool NOWWW #ivyleague #college #studymotivation #collegeacceptance #fyp ",
+      "createTime": 1749513262,
+      "createDate": "2025-06-09T23:54:22.000Z",
+      "stats": {
+        "views": 1353,
+        "likes": 79,
+        "comments": 0,
+        "shares": 0,
+        "collects": 11
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "NOKIA x SexyBack",
+        "author": "Spectre",
+        "original": true,
+        "duration": 244
+      },
+      "video": {
+        "id": "7514102153489730846",
+        "duration": 13,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1180164
+      },
+      "hashtags": [
+        "#ivyleague",
+        "#college",
+        "#studymotivation",
+        "#collegeacceptance",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.058388765705838876,
+        "commentsToViews": 0,
+        "sharesToViews": 0,
+        "engagement": 0.058388765705838876
+      }
+    },
+    {
+      "id": "7514006732155276575",
+      "description": "W for telling me 🙌 #collegeadmissions #collegeacceptance #studymotivation #foryou ",
+      "createTime": 1749491055,
+      "createDate": "2025-06-09T17:44:15.000Z",
+      "stats": {
+        "views": 1815,
+        "likes": 58,
+        "comments": 2,
+        "shares": 0,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "༺♡༻",
+        "original": true,
+        "duration": 20
+      },
+      "video": {
+        "id": "7514006732155276575",
+        "duration": 10,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 850536
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.031955922865013774,
+        "commentsToViews": 0.0011019283746556473,
+        "sharesToViews": 0,
+        "engagement": 0.03305785123966942
+      }
+    },
+    {
+      "id": "7513702676908051743",
+      "description": "the results dont lie 🤷🏻‍♀️ #studytok #studymotivation #ivyleague #collegeadmissions #fyp ",
+      "createTime": 1749420250,
+      "createDate": "2025-06-08T22:04:10.000Z",
+      "stats": {
+        "views": 3749,
+        "likes": 227,
+        "comments": 4,
+        "shares": 5,
+        "collects": 54
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "This song",
+        "author": "SULU",
+        "original": true,
+        "duration": 12
+      },
+      "video": {
+        "id": "7513702676908051743",
+        "duration": 12,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1047907
+      },
+      "hashtags": [
+        "#studytok",
+        "#studymotivation",
+        "#ivyleague",
+        "#collegeadmissions",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.06054947986129634,
+        "commentsToViews": 0.0010669511869831954,
+        "sharesToViews": 0.0013336889837289945,
+        "engagement": 0.06295012003200853
+      }
+    },
+    {
+      "id": "7513625359267482910",
+      "description": "im just unlucky fr #collegeacceptance #collegeapplication #studymotivation #fyp ",
+      "createTime": 1749402256,
+      "createDate": "2025-06-08T17:04:16.000Z",
+      "stats": {
+        "views": 1201,
+        "likes": 50,
+        "comments": 1,
+        "shares": 0,
+        "collects": 10
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Bunna Summa",
+        "author": "BunnaB",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7513625359267482910",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 992856
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#collegeapplication",
+        "#studymotivation",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.041631973355537054,
+        "commentsToViews": 0.0008326394671107411,
+        "sharesToViews": 0,
+        "engagement": 0.042464612822647796
+      }
+    },
+    {
+      "id": "7513326733064441119",
+      "description": "why i find this now 😫 #collegeadmissions #collegetips #ivyleague #foryou ",
+      "createTime": 1749332718,
+      "createDate": "2025-06-07T21:45:18.000Z",
+      "stats": {
+        "views": 909,
+        "likes": 30,
+        "comments": 0,
+        "shares": 0,
+        "collects": 10
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "VPB",
+        "original": true,
+        "duration": 15
+      },
+      "video": {
+        "id": "7513326733064441119",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1005103
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegetips",
+        "#ivyleague",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.033003300330033,
+        "commentsToViews": 0,
+        "sharesToViews": 0,
+        "engagement": 0.033003300330033
+      }
+    },
+    {
+      "id": "7513244675180924190",
+      "description": "wazzup dream school 🎓🪐 #collegeacceptance #studymotivation #collegeapplication #fyp",
+      "createTime": 1749313615,
+      "createDate": "2025-06-07T16:26:55.000Z",
+      "stats": {
+        "views": 1287,
+        "likes": 68,
+        "comments": 1,
+        "shares": 2,
+        "collects": 9
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "son original",
+        "author": "𝐡𝐞𝐫𝐢𝐭𝐢𝐞𝐫",
+        "original": true,
+        "duration": 19
+      },
+      "video": {
+        "id": "7513244675180924190",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1178133
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.05283605283605284,
+        "commentsToViews": 0.000777000777000777,
+        "sharesToViews": 0.001554001554001554,
+        "engagement": 0.05516705516705517
+      }
+    },
+    {
+      "id": "7512974731021258015",
+      "description": "practice a little everyday 📈 #collegetips #collegehack #collegeacceptance #fyp ",
+      "createTime": 1749250764,
+      "createDate": "2025-06-06T22:59:24.000Z",
+      "stats": {
+        "views": 814,
+        "likes": 19,
+        "comments": 0,
+        "shares": 0,
+        "collects": 1
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Bing Bong",
+        "author": "Yailin La Mas Viral & Puyalo Pantera",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7512974731021258015",
+        "duration": 10,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 874914
+      },
+      "hashtags": [
+        "#collegetips",
+        "#collegehack",
+        "#collegeacceptance",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.02334152334152334,
+        "commentsToViews": 0,
+        "sharesToViews": 0,
+        "engagement": 0.02334152334152334
+      }
+    },
+    {
+      "id": "7512880048219622687",
+      "description": "over a text is crazy 💀 #studytok #studymotivation #collegeadmissions #fyp ",
+      "createTime": 1749228721,
+      "createDate": "2025-06-06T16:52:01.000Z",
+      "stats": {
+        "views": 1407,
+        "likes": 49,
+        "comments": 0,
+        "shares": 2,
+        "collects": 9
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "оригінальний звук",
+        "author": "ᶫᵒᵛᵉˢᵉᶰˢˢˢ",
+        "original": true,
+        "duration": 19
+      },
+      "video": {
+        "id": "7512880048219622687",
+        "duration": 14,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1227534
+      },
+      "hashtags": [
+        "#studytok",
+        "#studymotivation",
+        "#collegeadmissions",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.03482587064676617,
+        "commentsToViews": 0,
+        "sharesToViews": 0.0014214641080312722,
+        "engagement": 0.03624733475479744
+      }
+    },
+    {
+      "id": "7511846437609655583",
+      "description": "Check this out! #harvard #ivyleague #collegeacceptance #studyhack #foryou ",
+      "createTime": 1748988067,
+      "createDate": "2025-06-03T22:01:07.000Z",
+      "stats": {
+        "views": 1213,
+        "likes": 37,
+        "comments": 0,
+        "shares": 2,
+        "collects": 0
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "lyrics",
+        "original": true,
+        "duration": 16
+      },
+      "video": {
+        "id": "7511846437609655583",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 853925
+      },
+      "hashtags": [
+        "#harvard",
+        "#ivyleague",
+        "#collegeacceptance",
+        "#studyhack",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.030502885408079144,
+        "commentsToViews": 0,
+        "sharesToViews": 0.0016488046166529267,
+        "engagement": 0.03215169002473207
+      }
+    },
+    {
+      "id": "7511761143082306846",
+      "description": "this is a lifesaver 🥰 #collegeapplication #collegeadmissions #studytok #college #fyp ",
+      "createTime": 1748968202,
+      "createDate": "2025-06-03T16:30:02.000Z",
+      "stats": {
+        "views": 1472,
+        "likes": 49,
+        "comments": 0,
+        "shares": 1,
+        "collects": 5
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "I Aint Got No Panties on on the Dance Flooo",
+        "author": "Wax-A-Million",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7511761143082306846",
+        "duration": 9,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1036674
+      },
+      "hashtags": [
+        "#collegeapplication",
+        "#collegeadmissions",
+        "#studytok",
+        "#college",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.03328804347826087,
+        "commentsToViews": 0,
+        "sharesToViews": 0.0006793478260869565,
+        "engagement": 0.033967391304347824
+      }
+    },
+    {
+      "id": "7511450361589173535",
+      "description": "wait, i actually need that 🥺 #collegeacceptance #studymotivation #collegeapplication #foryou",
+      "createTime": 1748895843,
+      "createDate": "2025-06-02T20:24:03.000Z",
+      "stats": {
+        "views": 1352,
+        "likes": 50,
+        "comments": 1,
+        "shares": 4,
+        "collects": 12
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "☠🪷🔎🛸",
+        "original": true,
+        "duration": 13
+      },
+      "video": {
+        "id": "7511450361589173535",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1006194
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.03698224852071006,
+        "commentsToViews": 0.0007396449704142012,
+        "sharesToViews": 0.0029585798816568047,
+        "engagement": 0.040680473372781065
+      }
+    },
+    {
+      "id": "7511388527721008414",
+      "description": "i wish she told me about this before 😫 #harvard #collegeacceptance #studymotivation #collegeapplication #fyp",
+      "createTime": 1748881454,
+      "createDate": "2025-06-02T16:24:14.000Z",
+      "stats": {
+        "views": 2016,
+        "likes": 80,
+        "comments": 1,
+        "shares": 0,
+        "collects": 15
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "Nrlponga",
+        "original": true,
+        "duration": 26
+      },
+      "video": {
+        "id": "7511388527721008414",
+        "duration": 15,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1122688
+      },
+      "hashtags": [
+        "#harvard",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.03968253968253968,
+        "commentsToViews": 0.000496031746031746,
+        "sharesToViews": 0,
+        "engagement": 0.04017857142857143
+      }
+    },
+    {
+      "id": "7511081344089296159",
+      "description": "im greateful for this tool #collegeacceptance #studymotivation #collegeapplication #foryou",
+      "createTime": 1748809926,
+      "createDate": "2025-06-01T20:32:06.000Z",
+      "stats": {
+        "views": 1484,
+        "likes": 46,
+        "comments": 1,
+        "shares": 3,
+        "collects": 7
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "admisist",
+        "original": true,
+        "duration": 11
+      },
+      "video": {
+        "id": "7511081344089296159",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 988978
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.03099730458221024,
+        "commentsToViews": 0.0006738544474393531,
+        "sharesToViews": 0.0020215633423180594,
+        "engagement": 0.03369272237196765
+      }
+    },
+    {
+      "id": "7511026010792545566",
+      "description": "this is the hack 🤫  #yale #ivyleague #studytok #collegeacceptance #fyp ",
+      "createTime": 1748797042,
+      "createDate": "2025-06-01T16:57:22.000Z",
+      "stats": {
+        "views": 2125,
+        "likes": 110,
+        "comments": 1,
+        "shares": 1,
+        "collects": 22
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Call me maybe Remix Prod. KayArchon",
+        "author": "KayArchon",
+        "original": true,
+        "duration": 18
+      },
+      "video": {
+        "id": "7511026010792545566",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 944996
+      },
+      "hashtags": [
+        "#yale",
+        "#ivyleague",
+        "#studytok",
+        "#collegeacceptance",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.05176470588235294,
+        "commentsToViews": 0.00047058823529411766,
+        "sharesToViews": 0.00047058823529411766,
+        "engagement": 0.05270588235294118
+      }
+    },
+    {
+      "id": "7510734529640860958",
+      "description": "i got everybody mad at me 😭 #studytok #studymotivation #collegeacceptance #foryou ",
+      "createTime": 1748729175,
+      "createDate": "2025-05-31T22:06:15.000Z",
+      "stats": {
+        "views": 1440,
+        "likes": 48,
+        "comments": 1,
+        "shares": 0,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "notkayb",
+        "original": true,
+        "duration": 8
+      },
+      "video": {
+        "id": "7510734529640860958",
+        "duration": 8,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1031431
+      },
+      "hashtags": [
+        "#studytok",
+        "#studymotivation",
+        "#collegeacceptance",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.03333333333333333,
+        "commentsToViews": 0.0006944444444444445,
+        "sharesToViews": 0,
+        "engagement": 0.034027777777777775
+      }
+    },
+    {
+      "id": "7510657843456904478",
+      "description": "this should be gatekept😔 #ivyleague #collegeacceptance #studymotivation #collegeapplication #fyp",
+      "createTime": 1748711319,
+      "createDate": "2025-05-31T17:08:39.000Z",
+      "stats": {
+        "views": 1365,
+        "likes": 38,
+        "comments": 1,
+        "shares": 0,
+        "collects": 7
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "som original",
+        "author": "helo",
+        "original": true,
+        "duration": 11
+      },
+      "video": {
+        "id": "7510657843456904478",
+        "duration": 11,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 962343
+      },
+      "hashtags": [
+        "#ivyleague",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.02783882783882784,
+        "commentsToViews": 0.0007326007326007326,
+        "sharesToViews": 0,
+        "engagement": 0.02857142857142857
+      }
+    },
+    {
+      "id": "7509977769321794847",
+      "description": "didnt know it was this easy 🥰 #harvard #collegeacceptance #studymotivation #collegeapplication #foryou",
+      "createTime": 1748552968,
+      "createDate": "2025-05-29T21:09:28.000Z",
+      "stats": {
+        "views": 4799,
+        "likes": 242,
+        "comments": 2,
+        "shares": 2,
+        "collects": 37
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Stick Em 2k20",
+        "author": "RoddOnnaBeat",
+        "original": false,
+        "duration": 7
+      },
+      "video": {
+        "id": "7509977769321794847",
+        "duration": 7,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1745167
+      },
+      "hashtags": [
+        "#harvard",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.05042717232756824,
+        "commentsToViews": 0.00041675349031048136,
+        "sharesToViews": 0.00041675349031048136,
+        "engagement": 0.05126067930818921
+      }
+    },
+    {
+      "id": "7509920672483790110",
+      "description": "will def be attending my dream school😆 #collegeacceptance #collegeapplication #studymotivation #fyp ",
+      "createTime": 1748539675,
+      "createDate": "2025-05-29T17:27:55.000Z",
+      "stats": {
+        "views": 1323,
+        "likes": 48,
+        "comments": 1,
+        "shares": 0,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Le Freak",
+        "author": "Chic",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7509920672483790110",
+        "duration": 12,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 917314
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#collegeapplication",
+        "#studymotivation",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.036281179138321996,
+        "commentsToViews": 0.0007558578987150416,
+        "sharesToViews": 0,
+        "engagement": 0.037037037037037035
+      }
+    },
+    {
+      "id": "7509601130922511646",
+      "description": "she is actually smart for that #collegeacceptance #studymotivation #collegeapplication #fyp",
+      "createTime": 1748465287,
+      "createDate": "2025-05-28T20:48:07.000Z",
+      "stats": {
+        "views": 6363,
+        "likes": 179,
+        "comments": 2,
+        "shares": 2,
+        "collects": 31
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Shake It To The Max (FLY) (Remix)",
+        "author": "MOLIY & Skillibeng & Shenseea",
+        "original": false,
+        "duration": 60
+      },
+      "video": {
+        "id": "7509601130922511646",
+        "duration": 15,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1439765
+      },
+      "hashtags": [
+        "#collegeacceptance",
+        "#studymotivation",
+        "#collegeapplication",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.02813138456702813,
+        "commentsToViews": 0.0003143171460003143,
+        "sharesToViews": 0.0003143171460003143,
+        "engagement": 0.02876001885902876
+      }
+    },
+    {
+      "id": "7509545444662431007",
+      "description": "Ballerina Capuccina ☕️ #collegeadmissions #collegetips #ivyleague #foryou ",
+      "createTime": 1748452330,
+      "createDate": "2025-05-28T17:12:10.000Z",
+      "stats": {
+        "views": 1621,
+        "likes": 53,
+        "comments": 1,
+        "shares": 1,
+        "collects": 4
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "оригинальный звук",
+        "author": "WXRMANE",
+        "original": true,
+        "duration": 70
+      },
+      "video": {
+        "id": "7509545444662431007",
+        "duration": 16,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1016549
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegetips",
+        "#ivyleague",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.03269586674892042,
+        "commentsToViews": 0.0006169031462060457,
+        "sharesToViews": 0.0006169031462060457,
+        "engagement": 0.03392967304133251
+      }
+    },
+    {
+      "id": "7509237357997018399",
+      "description": "i wish i found this sooner 😔 #collegetips #collegehack #collegeacceptance #foryou ",
+      "createTime": 1748380595,
+      "createDate": "2025-05-27T21:16:35.000Z",
+      "stats": {
+        "views": 1332,
+        "likes": 52,
+        "comments": 1,
+        "shares": 0,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "Lady Killers II",
+        "author": "G-EAZY",
+        "original": false,
+        "duration": 45
+      },
+      "video": {
+        "id": "7509237357997018399",
+        "duration": 12,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 771619
+      },
+      "hashtags": [
+        "#collegetips",
+        "#collegehack",
+        "#collegeacceptance",
+        "#foryou"
+      ],
+      "metrics": {
+        "likesToViews": 0.03903903903903904,
+        "commentsToViews": 0.0007507507507507507,
+        "sharesToViews": 0,
+        "engagement": 0.03978978978978979
+      }
+    },
+    {
+      "id": "7509185951080434975",
+      "description": "wait, this is a lifesaver 🙏 #collegeadmissions #collegeacceptance #studymotivation #fyp ",
+      "createTime": 1748368625,
+      "createDate": "2025-05-27T17:57:05.000Z",
+      "stats": {
+        "views": 1259,
+        "likes": 58,
+        "comments": 0,
+        "shares": 0,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "0n1ka.Supremacy",
+        "original": true,
+        "duration": 21
+      },
+      "video": {
+        "id": "7509185951080434975",
+        "duration": 9,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 852172
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegeacceptance",
+        "#studymotivation",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.046068308181096106,
+        "commentsToViews": 0,
+        "sharesToViews": 0,
+        "engagement": 0.046068308181096106
+      }
+    },
+    {
+      "id": "7508476972314496286",
+      "description": "let me put you on 😉 #collegeadmissions #collegedecision #studytok #fyp ",
+      "createTime": 1748203547,
+      "createDate": "2025-05-25T20:05:47.000Z",
+      "stats": {
+        "views": 1567,
+        "likes": 48,
+        "comments": 3,
+        "shares": 3,
+        "collects": 8
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "kid cudi brazilian funk",
+        "author": "Ali Beats",
+        "original": true,
+        "duration": 22
+      },
+      "video": {
+        "id": "7508476972314496286",
+        "duration": 15,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 871401
+      },
+      "hashtags": [
+        "#collegeadmissions",
+        "#collegedecision",
+        "#studytok",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.03063178047223995,
+        "commentsToViews": 0.0019144862795149968,
+        "sharesToViews": 0.0019144862795149968,
+        "engagement": 0.03446075303126994
+      }
+    },
+    {
+      "id": "7508413938594336030",
+      "description": "are we cooked? #collegeapplication #collegeacceptance #harvard #fyp ",
+      "createTime": 1748188872,
+      "createDate": "2025-05-25T16:01:12.000Z",
+      "stats": {
+        "views": 5254,
+        "likes": 273,
+        "comments": 3,
+        "shares": 10,
+        "collects": 54
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "Izaiah",
+        "original": true,
+        "duration": 15
+      },
+      "video": {
+        "id": "7508413938594336030",
+        "duration": 13,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 1201188
+      },
+      "hashtags": [
+        "#collegeapplication",
+        "#collegeacceptance",
+        "#harvard",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.05196041111534069,
+        "commentsToViews": 0.0005709935287400076,
+        "sharesToViews": 0.001903311762466692,
+        "engagement": 0.054434716406547394
+      }
+    },
+    {
+      "id": "7508118183455296799",
+      "description": "gonna practice all night 💪 #harvard #collegeadmissions #ivyleague #studytok #fyp ",
+      "createTime": 1748120008,
+      "createDate": "2025-05-24T20:53:28.000Z",
+      "stats": {
+        "views": 2554,
+        "likes": 114,
+        "comments": 4,
+        "shares": 1,
+        "collects": 16
+      },
+      "author": {
+        "username": "admisist",
+        "nickname": "admisist",
+        "verified": false
+      },
+      "music": {
+        "title": "original sound",
+        "author": "admisist",
+        "original": true,
+        "duration": 13
+      },
+      "video": {
+        "id": "7508118183455296799",
+        "duration": 13,
+        "ratio": "540p",
+        "format": "mp4",
+        "bitrate": 764232
+      },
+      "hashtags": [
+        "#harvard",
+        "#collegeadmissions",
+        "#ivyleague",
+        "#studytok",
+        "#fyp"
+      ],
+      "metrics": {
+        "likesToViews": 0.04463586530931871,
+        "commentsToViews": 0.0015661707126076742,
+        "sharesToViews": 0.00039154267815191856,
+        "engagement": 0.04659357870007831
+      }
+    }
+  ],
+  "analytics": {
+    "topHashtags": [
+      {
+        "tag": "#collegeacceptance",
+        "count": 28
+      },
+      {
+        "tag": "#fyp",
+        "count": 23
+      },
+      {
+        "tag": "#studymotivation",
+        "count": 19
+      },
+      {
+        "tag": "#collegeadmissions",
+        "count": 15
+      },
+      {
+        "tag": "#collegeapplication",
+        "count": 14
+      },
+      {
+        "tag": "#ivyleague",
+        "count": 12
+      },
+      {
+        "tag": "#foryou",
+        "count": 12
+      },
+      {
+        "tag": "#studytok",
+        "count": 9
+      },
+      {
+        "tag": "#harvard",
+        "count": 7
+      },
+      {
+        "tag": "#collegetips",
+        "count": 4
+      },
+      {
+        "tag": "#collegetok",
+        "count": 2
+      },
+      {
+        "tag": "#college",
+        "count": 2
+      },
+      {
+        "tag": "#collegehack",
+        "count": 2
+      },
+      {
+        "tag": "#collegelife",
+        "count": 1
+      },
+      {
+        "tag": "#dream",
+        "count": 1
+      },
+      {
+        "tag": "#studyhack",
+        "count": 1
+      },
+      {
+        "tag": "#yale",
+        "count": 1
+      },
+      {
+        "tag": "#collegedecision",
+        "count": 1
+      }
+    ],
+    "topVideosByViews": [
+      {
+        "id": "7440219488437423390",
+        "description": "Who calims this? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 33900000,
+        "likes": 4700000,
+        "engagement": 0.1403628318584071,
+        "createDate": "2024-11-22T21:31:41.000Z"
+      },
+      {
+        "id": "7437614359309733150",
+        "description": "Who's ready? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 13900000,
+        "likes": 1500000,
+        "engagement": 0.10993431654676258,
+        "createDate": "2024-11-15T21:02:36.000Z"
+      },
+      {
+        "id": "7509601130922511646",
+        "description": "she is actually smart for that #collegeacceptance #studymotivation #collegeapplication #fyp...",
+        "views": 6363,
+        "likes": 179,
+        "engagement": 0.02876001885902876,
+        "createDate": "2025-05-28T20:48:07.000Z"
+      },
+      {
+        "id": "7508413938594336030",
+        "description": "are we cooked? #collegeapplication #collegeacceptance #harvard #fyp ...",
+        "views": 5254,
+        "likes": 273,
+        "engagement": 0.054434716406547394,
+        "createDate": "2025-05-25T16:01:12.000Z"
+      },
+      {
+        "id": "7509977769321794847",
+        "description": "didnt know it was this easy 🥰 #harvard #collegeacceptance #studymotivation #collegeapplication #for...",
+        "views": 4799,
+        "likes": 242,
+        "engagement": 0.05126067930818921,
+        "createDate": "2025-05-29T21:09:28.000Z"
+      },
+      {
+        "id": "7515199634273242399",
+        "description": "so helpful 👀 #collegeadmissions #collegeacceptance #studymotivation #fyp ...",
+        "views": 4420,
+        "likes": 312,
+        "engagement": 0.07194570135746606,
+        "createDate": "2025-06-12T22:52:56.000Z"
+      },
+      {
+        "id": "7513702676908051743",
+        "description": "the results dont lie 🤷🏻‍♀️ #studytok #studymotivation #ivyleague #collegeadmissions #fyp ...",
+        "views": 3749,
+        "likes": 227,
+        "engagement": 0.06295012003200853,
+        "createDate": "2025-06-08T22:04:10.000Z"
+      },
+      {
+        "id": "7516959008243059999",
+        "description": "W in the chat and its free💀 #harvard #ivyleague #collegeadmissions #collegeacceptance #fyp ...",
+        "views": 3178,
+        "likes": 175,
+        "engagement": 0.056954059156702326,
+        "createDate": "2025-06-17T16:40:31.000Z"
+      },
+      {
+        "id": "7516292543940676894",
+        "description": "no thats actually insane 😭 #collegeacceptance #studymotivation #collegeapplication #fyp...",
+        "views": 3008,
+        "likes": 126,
+        "engagement": 0.04488031914893617,
+        "createDate": "2025-06-15T21:34:08.000Z"
+      },
+      {
+        "id": "7508118183455296799",
+        "description": "gonna practice all night 💪 #harvard #collegeadmissions #ivyleague #studytok #fyp ...",
+        "views": 2554,
+        "likes": 114,
+        "engagement": 0.04659357870007831,
+        "createDate": "2025-05-24T20:53:28.000Z"
+      }
+    ],
+    "topVideosByLikes": [
+      {
+        "id": "7440219488437423390",
+        "description": "Who calims this? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 33900000,
+        "likes": 4700000,
+        "engagement": 0.1403628318584071,
+        "createDate": "2024-11-22T21:31:41.000Z"
+      },
+      {
+        "id": "7437614359309733150",
+        "description": "Who's ready? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 13900000,
+        "likes": 1500000,
+        "engagement": 0.10993431654676258,
+        "createDate": "2024-11-15T21:02:36.000Z"
+      },
+      {
+        "id": "7515199634273242399",
+        "description": "so helpful 👀 #collegeadmissions #collegeacceptance #studymotivation #fyp ...",
+        "views": 4420,
+        "likes": 312,
+        "engagement": 0.07194570135746606,
+        "createDate": "2025-06-12T22:52:56.000Z"
+      },
+      {
+        "id": "7508413938594336030",
+        "description": "are we cooked? #collegeapplication #collegeacceptance #harvard #fyp ...",
+        "views": 5254,
+        "likes": 273,
+        "engagement": 0.054434716406547394,
+        "createDate": "2025-05-25T16:01:12.000Z"
+      },
+      {
+        "id": "7509977769321794847",
+        "description": "didnt know it was this easy 🥰 #harvard #collegeacceptance #studymotivation #collegeapplication #for...",
+        "views": 4799,
+        "likes": 242,
+        "engagement": 0.05126067930818921,
+        "createDate": "2025-05-29T21:09:28.000Z"
+      },
+      {
+        "id": "7513702676908051743",
+        "description": "the results dont lie 🤷🏻‍♀️ #studytok #studymotivation #ivyleague #collegeadmissions #fyp ...",
+        "views": 3749,
+        "likes": 227,
+        "engagement": 0.06295012003200853,
+        "createDate": "2025-06-08T22:04:10.000Z"
+      },
+      {
+        "id": "7509601130922511646",
+        "description": "she is actually smart for that #collegeacceptance #studymotivation #collegeapplication #fyp...",
+        "views": 6363,
+        "likes": 179,
+        "engagement": 0.02876001885902876,
+        "createDate": "2025-05-28T20:48:07.000Z"
+      },
+      {
+        "id": "7516959008243059999",
+        "description": "W in the chat and its free💀 #harvard #ivyleague #collegeadmissions #collegeacceptance #fyp ...",
+        "views": 3178,
+        "likes": 175,
+        "engagement": 0.056954059156702326,
+        "createDate": "2025-06-17T16:40:31.000Z"
+      },
+      {
+        "id": "7516292543940676894",
+        "description": "no thats actually insane 😭 #collegeacceptance #studymotivation #collegeapplication #fyp...",
+        "views": 3008,
+        "likes": 126,
+        "engagement": 0.04488031914893617,
+        "createDate": "2025-06-15T21:34:08.000Z"
+      },
+      {
+        "id": "7508118183455296799",
+        "description": "gonna practice all night 💪 #harvard #collegeadmissions #ivyleague #studytok #fyp ...",
+        "views": 2554,
+        "likes": 114,
+        "engagement": 0.04659357870007831,
+        "createDate": "2025-05-24T20:53:28.000Z"
+      }
+    ],
+    "topVideosByEngagement": [
+      {
+        "id": "7440219488437423390",
+        "description": "Who calims this? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 33900000,
+        "likes": 4700000,
+        "engagement": 0.1403628318584071,
+        "createDate": "2024-11-22T21:31:41.000Z"
+      },
+      {
+        "id": "7437614359309733150",
+        "description": "Who's ready? #ivyleague #collegetok #collegeacceptance #collegeadmissions #fyp ...",
+        "views": 13900000,
+        "likes": 1500000,
+        "engagement": 0.10993431654676258,
+        "createDate": "2024-11-15T21:02:36.000Z"
+      },
+      {
+        "id": "7515199634273242399",
+        "description": "so helpful 👀 #collegeadmissions #collegeacceptance #studymotivation #fyp ...",
+        "views": 4420,
+        "likes": 312,
+        "engagement": 0.07194570135746606,
+        "createDate": "2025-06-12T22:52:56.000Z"
+      },
+      {
+        "id": "7513702676908051743",
+        "description": "the results dont lie 🤷🏻‍♀️ #studytok #studymotivation #ivyleague #collegeadmissions #fyp ...",
+        "views": 3749,
+        "likes": 227,
+        "engagement": 0.06295012003200853,
+        "createDate": "2025-06-08T22:04:10.000Z"
+      },
+      {
+        "id": "7514102153489730846",
+        "description": "i need that tool NOWWW #ivyleague #college #studymotivation #collegeacceptance #fyp ...",
+        "views": 1353,
+        "likes": 79,
+        "engagement": 0.058388765705838876,
+        "createDate": "2025-06-09T23:54:22.000Z"
+      },
+      {
+        "id": "7516959008243059999",
+        "description": "W in the chat and its free💀 #harvard #ivyleague #collegeadmissions #collegeacceptance #fyp ...",
+        "views": 3178,
+        "likes": 175,
+        "engagement": 0.056954059156702326,
+        "createDate": "2025-06-17T16:40:31.000Z"
+      },
+      {
+        "id": "7513244675180924190",
+        "description": "wazzup dream school 🎓🪐 #collegeacceptance #studymotivation #collegeapplication #fyp...",
+        "views": 1287,
+        "likes": 68,
+        "engagement": 0.05516705516705517,
+        "createDate": "2025-06-07T16:26:55.000Z"
+      },
+      {
+        "id": "7508413938594336030",
+        "description": "are we cooked? #collegeapplication #collegeacceptance #harvard #fyp ...",
+        "views": 5254,
+        "likes": 273,
+        "engagement": 0.054434716406547394,
+        "createDate": "2025-05-25T16:01:12.000Z"
+      },
+      {
+        "id": "7511026010792545566",
+        "description": "this is the hack 🤫  #yale #ivyleague #studytok #collegeacceptance #fyp ...",
+        "views": 2125,
+        "likes": 110,
+        "engagement": 0.05270588235294118,
+        "createDate": "2025-06-01T16:57:22.000Z"
+      },
+      {
+        "id": "7509977769321794847",
+        "description": "didnt know it was this easy 🥰 #harvard #collegeacceptance #studymotivation #collegeapplication #for...",
+        "views": 4799,
+        "likes": 242,
+        "engagement": 0.05126067930818921,
+        "createDate": "2025-05-29T21:09:28.000Z"
+      }
+    ],
+    "temporalAnalysis": {
+      "videosByMonth": {
+        "2024-11": 2,
+        "2025-06": 22,
+        "2025-05": 11
+      },
+      "videosByDayOfWeek": {
+        "Friday": 6,
+        "Tuesday": 4,
+        "Monday": 5,
+        "Sunday": 8,
+        "Saturday": 6,
+        "Thursday": 2,
+        "Wednesday": 4
+      },
+      "videosByHour": {
+        "0": 5,
+        "1": 5,
+        "2": 1,
+        "18": 1,
+        "19": 9,
+        "20": 6,
+        "23": 8
+      }
+    }
+  }
+}
